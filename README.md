@@ -1,3 +1,4 @@
 # Biotech-Bootcamp-2026
-Learning log and preparation repository for my B.Tech. Biotech 3rd semester. Building a foundation in Python for bioinformatics, molecular visualization with PyMOL, and core lab concepts.
-Guided by interactive self-study, curated with the guidance of AI mentoring, focusing on breaking down complex biotech protocols and coding logic.
+A personal repository for learning Python-based bioinformatics, exploring molecular visualization in PyMOL, and automating lab protocol workflows.
+
+Right now, DNA_Sequence_Analysis.ipynb contains a script that processes a raw DNA sequence to calculate its total length, compute the GC percentage ratio, and transcribe the sequence into an RNA strand. Everything is built locally using Jupyter Notebooks.
